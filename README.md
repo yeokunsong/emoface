@@ -1,5 +1,3 @@
-# emoface
-
 # Motivation
 This project is inspired by a student project from Stanford University's EE368 module. Facial emotion images from CK+ dataset were used to train a saptial feature-based classifier to recognition 7 different types of facial emotion.
 J Pao. Emotion Detection Through Facial Feature Recognition (#37). . https://web.stanford.edu/class/ee368/Project_Autumn_1617/Reports/report_pao.pdf. 

@@ -16,7 +16,9 @@ J Pao. Emotion Detection Through Facial Feature Recognition (#37). . https://web
 1. Unzip the original images from CK+ dataset  (http://www.consortium.ri.cmu.edu/data/ck/; registration required) to "extended-cohn-kanade-images\cohn-kanade-images"
 2. Unzip the original labels from CK+ dataset to "Emotion_labels\Emotion"
 
-# Extract and preprocess images: (this step can be skipped if you just use the processed datasets in the zip files)
+# Extract and preprocess images
+This step can be skipped if you just use the processed datasets in the zip files
+
 1. Run "data_extraction_preprocessing.py". Training and testing folders will be created. "crop_face.py", "subtract_neutral_face.py" and "threshold_face.py" are scripts containing necessary modules.
 
 # Check differences in training and testing images between Pao's dataset and our datasets
